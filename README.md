@@ -1,6 +1,6 @@
 # Info
 Assignment from GA to practice Javascript.
----
+
 
 ## Licensing
 All content is licensed under a CC­BY­NC­SA 4.0 license.
